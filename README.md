@@ -5,8 +5,10 @@
 
 
 - [ruby version manager](./ruby-version-manager.md)
-- ruby gem
-- [ruby server module](./ruby server module.md)
+- [ruby language](./ruby-basic/)
+- [ruby gem](./ruby-gem.md)
+- [ruby task runner](./ruby-task-runner.md)
+- [ruby server module](./ruby-server-module.md)
 - ruby framework
     - [Ruby on Rails](./ruby-rails/) -- MVC
     - Camping -- 마이크로 프레임워크  
